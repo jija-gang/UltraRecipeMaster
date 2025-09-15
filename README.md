@@ -1,2 +1,2 @@
 # UltraRecipeMaster
-pet project for c# training
+pet project for Java + FrontEnd training
